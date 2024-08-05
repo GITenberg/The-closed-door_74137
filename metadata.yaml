@@ -1,0 +1,39 @@
+_repo: The-closed-door_74137
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wilson, John Fleming
+    birthdate: 1877
+    deathdate: 1922
+    gutenberg_agent_id: '57360'
+    url: http://www.gutenberg.org/2009/agents/57360
+    wikipedia: https://en.wikipedia.org/wiki/John_Fleming_Wilson
+  - agent_name: Miller, Mary Ashe
+    gutenberg_agent_id: '57361'
+    url: http://www.gutenberg.org/2009/agents/57361
+description: Wilson and Miller are both listed as co-authors in the table of contents
+  of the magazine.
+gutenberg_issued: '2024-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74137'
+language: en
+pgterms:marc904: https://archive.org/details/ainslees-v-50-n-02-1922-10
+pgterms:marc905: 20240704191908wilson
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bAinslee''s Magazine Co., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The closed door
+url: http://www.gutenberg.org/ebooks/74137
