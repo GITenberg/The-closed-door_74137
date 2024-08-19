@@ -1,5 +1,8 @@
 _repo: The-closed-door_74137
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74137-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wilson, John Fleming
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57361
 description: Wilson and Miller are both listed as co-authors in the table of contents
   of the magazine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74137#The-closed-door
 gutenberg_issued: '2024-07-27'
 gutenberg_type: Text
 identifiers:
